@@ -8,7 +8,7 @@ public class ExercicioH1 {
         InputStreamReader c = new InputStreamReader(System.in);
         BufferedReader cd = new BufferedReader(c);
         String s = "";
-        String t = "";
+        
 
         System.out.println("Entre com um valor inteiro: ");
         try {
