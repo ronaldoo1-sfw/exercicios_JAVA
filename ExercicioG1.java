@@ -42,7 +42,7 @@ public class ExercicioG1 {
         int escolha = Integer.parseInt(s);
         
         System.out.println("Sendo a=" +a + " e b=" +b + " o resultado eh:");
-        switch (escolha) {
+        switch(escolha) {
             case 1:
                 System.out.println("A soma é igual a: " +(a + b));
                 break;

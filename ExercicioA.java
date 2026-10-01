@@ -1,5 +1,5 @@
-//a.1)Acrescente mais uma linha de exibição no programa anterior.
-/*
+/*a.1)Acrescente mais uma linha de exibição no programa anterior.
+
 public class ExercicioA {
 
 	public static void main(String arg[]){
@@ -8,10 +8,9 @@ public class ExercicioA {
 		System.out.println(“Facim, facim!!!");
 	}
 }
-*/
 
-//a.2)Crie um programa que imprima todos os seus dados cadastrais.
-/*
+a.2)Crie um programa que imprima todos os seus dados cadastrais.
+
 public class ExercicioA {
 
 	public static void main(String arg[]){
@@ -35,5 +34,5 @@ public class ExercicioA {
 		System.out.println("Meu nome é: "+ arg[0]);
 	
 	}
-	
+
 }
