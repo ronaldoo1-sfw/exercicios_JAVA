@@ -1,3 +1,5 @@
+//h1)_ Utilizando a Linguagemde programaçãoJava,implemente um programa que permitaaentradadeum valor inteiro e informe se este valor é“par”ou“ímpar”.
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

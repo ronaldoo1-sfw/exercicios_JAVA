@@ -1,8 +1,8 @@
 /*c.1) Usando o laço “for”
 , construa umprograma que ao invés de incrementar a variável “a” até que atinja o valor dedavariável “b”
-, faça o inverso, decremente “b” até que achegueaovalorde “a”.*/
+, faça o inverso, decremente “b” até que a chegue ao valor de “a”.*/
 
-public class Laco1 {
+public class ExercicioC1 {
 
 	public static void main(String arg[]){
 	

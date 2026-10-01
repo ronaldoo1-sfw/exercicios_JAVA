@@ -1,8 +1,8 @@
 /*b.1)Implemente as outras operações matemática “simples” a saber
-Multiplicação (*), divisão (/) e subtração (-), sendo comprimeiro termodaoperaçãoavariável “a”
-e o segundo termo a variável “b”, imprimindo seu resultadoacadaoperação.*/
+Multiplicação (*), divisão (/) e subtração (-), sendo o primeiro termo da operação a variável “a”
+e o segundo termo a variável “b”, imprimindo seu resultado a cada operação.*/
 
-public class Operador {
+public class ExercicioB1 {
 	
 	public static void main(String arg[]){
 		

@@ -1,6 +1,6 @@
 //a.1)Acrescente mais uma linha de exibição no programa anterior.
 /*
-public class Exercicio1 {
+public class ExercicioA {
 
 	public static void main(String arg[]){
 	
@@ -12,7 +12,7 @@ public class Exercicio1 {
 
 //a.2)Crie um programa que imprima todos os seus dados cadastrais.
 /*
-public class Exercicio1 {
+public class ExercicioA {
 
 	public static void main(String arg[]){
 		
@@ -26,9 +26,9 @@ public class Exercicio1 {
 }
 */
 
-//a.3)Crie um programa que imprima a frase “Meu nome é: ” que através de parâmetros passados durante a chamada (interpretação: java ...) doprograma, imprima na tela esta frase + o nome passado.
+//a.3)Crie um programa que imprima a frase “Meu nome é: ” que através de parâmetros passados durante a chamada (interpretação: java ...) do programa, imprima na tela esta frase + o nome passado.
 
-public class Exercicio1 {
+public class ExercicioA {
 
 	public static void main(String arg[]){
 		
